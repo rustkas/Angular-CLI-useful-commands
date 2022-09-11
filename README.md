@@ -12,6 +12,7 @@ ng new demo-start-v14 --skip-git --minimal --routing false --style css && cd my-
 
 ng new demo-start-v14 --skip-git --minimal --routing false --style css
 rm -rf demo-start-v14
+yarn start
 
 ```
 
